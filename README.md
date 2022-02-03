@@ -5,6 +5,13 @@
 <h3 align="center"> I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and Django. 💚</h3>
 
 
+<p>
+<a align= "center" href="https://github.com/sakshamlamba109">
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=DhruvLamba&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" /> </a>
+
+</p>
+
 
 
 

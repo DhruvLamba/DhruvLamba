@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/DhruvLamba12" target="blank"><img src="https://img.shields.io/twitter/follow/DhruvLamba?logo=twitter&style=for-the-badge" alt="DhruvLamba" /></a> </p>
 
-- 📫 How to reach me **dhruvlamba09@gmail.com**
+- 📫 How to reach me **lambadhruv09@gmail.com**
  <br><br>
 <hr>
 

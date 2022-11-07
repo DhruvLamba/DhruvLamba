@@ -9,13 +9,9 @@
 <a align= "center" href="https://github.com/DhruvLamba">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=DhruvLamba&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" /> </a>
-
 </p>
 
-
-
-
-
+[![@dhruvlamba's Holopin board](https://holopin.me/dhruvlamba)](https://holopin.io/@dhruvlamba)
 
 <p align="left"> <a href="https://twitter.com/DhruvLamba12" target="blank"><img src="https://img.shields.io/twitter/follow/DhruvLamba?logo=twitter&style=for-the-badge" alt="DhruvLamba" /></a> </p>
 

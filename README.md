@@ -12,9 +12,9 @@
  <img align="right" alt= "stats card" height="350px" width="500" src="https://github-readme-stats.vercel.app/api?username=DhruvLamba&theme=cobalt&show_icons=true&count_private=true" />
 </p>
 
-
-
 [![@dhruvlamba's Holopin board](https://holopin.me/dhruvlamba)](https://holopin.io/@dhruvlamba)
+## Visitor: 
+![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
 
 <p align="left"> <a href="https://twitter.com/DhruvLamba12" target="blank"><img src="https://img.shields.io/twitter/follow/DhruvLamba?logo=twitter&style=for-the-badge" alt="DhruvLamba" /></a> </p>
 

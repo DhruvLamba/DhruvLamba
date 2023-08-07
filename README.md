@@ -10,7 +10,7 @@
   <a align= "center" href="https://github.com/DhruvLamba"></a>
   <br></br>
  <img align="right " height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
- <img align="right" alt= "stats card" height="350px" width="500" src="https://github-readme-stats.vercel.app/api?username=DhruvLamba&theme=cobalt&show_icons=true&count_private=true" />
+ <img align="right" alt= "stats card" height="350px" width="500" src="https://github-readme-stats.vercel.app/api?username=DhruvLamba&show_icons=true&theme=dark#gh-dark-mode-only")] />
 </p>
 
 #### Technologies and Tools

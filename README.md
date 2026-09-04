@@ -10,6 +10,7 @@
   <a align= "center" href="https://github.com/DhruvLamba"></a>
   <br></br>
  <img align="right " height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+ [![GitHub Stats](https://vercel.app)](https://github.com/DhruvLamba/github-readme-stats)
 </p>
 
 #### Technologies and Tools
